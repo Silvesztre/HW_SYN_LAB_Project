@@ -1,2 +1,2 @@
 # HW_SYN_LAB_Project
-HW SYN LAB I final project.
+This is a part of 2110363 Hardware Synthesis Laboratory I project.
